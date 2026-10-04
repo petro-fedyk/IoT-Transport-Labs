@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<edges>
+
+    <edge id="e1"
+          from="n1"
+          to="n2"
+          type="type1"/>
+
+    <edge id="e2"
+          from="n2"
+          to="n3"
+          type="type2"/>
+
+    <edge id="e3"
+          from="n3"
+          to="n4"
+          type="type3"/>
+
+    <edge id="e4"
+          from="n4"
+          to="n5"
+          type="type4"/>
+
+</edges>
