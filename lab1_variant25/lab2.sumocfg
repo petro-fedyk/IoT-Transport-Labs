@@ -1,0 +1,13 @@
+<configuration>
+
+    <input>
+        <net-file value="lab2.net.xml"/>
+        <route-files value="lab2.rou.xml"/>
+    </input>
+
+    <time>
+        <begin value="0"/>
+        <end value="200"/>
+    </time>
+
+</configuration>
